@@ -4,4 +4,6 @@
   
 <img width="736" height="736" alt="3" src="https://github.com/user-attachments/assets/37160257-0da5-4218-aedf-7f79cd518af0" />
 
+<p align=center
+
 <img width="1500" height="500" alt="2" src="https://github.com/user-attachments/assets/12216df7-2272-44d1-8f8b-5c8f4efe148a" />
