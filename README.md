@@ -2,7 +2,7 @@
 
   <p align=center
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Just+Remember+little+warrior+.;Be+Strong+awlays+be+strong..+&color=E0115F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Federant&pause=1000&color=E0115F&width=435&lines=Remember+little+warrior.;Be+strong.+Always+be+strong..)](https://git.io/typing-svg)
 
 <img width="1500" height="500" alt="1" src="https://github.com/user-attachments/assets/844896f8-e631-4c9a-a81c-7ea9aee0a21c" />
 
